@@ -5,7 +5,7 @@ import "fmt"
 
 // Hello prints the string "Hello!".
 func Hello() {
-	fmt.Println("Hello!")
+	fmt.Println("Hello Amol!")
 }
 
 // Hi prints the string "Hi!".
